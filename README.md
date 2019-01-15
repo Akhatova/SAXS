@@ -2,7 +2,7 @@
 Here you can find a python script for data treatment of SAXS integrated intensity across the weld.
 Please open "SAXS analysis step by step.ipynb".
 
-The script include:
+The script includes:
 1. Brief theory
 2. SAXS intensity profile analysis
 3. EPMA concentration profile analysis
