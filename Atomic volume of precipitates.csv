@@ -1,0 +1,19 @@
+Precipitate,Method,a,Material,Link
+Cr23C6,Experiment,10.65,monocrystal,https://doi.org/10.1107/S0567740872007526
+,,10.66,monocrystal,https://doi.org/10.1107/S0108768187097957
+,,10.631,IN740H,https://mountainscholar.org/bitstream/handle/11124/78117/Casias_mines_0052N_10124.pdf?sequence=1
+,,10.636,IN740,
+,Calculated,10.531,monocrystal,https://doi.org/10.1016/j.actamat.2015.08.078
+,,10.39,monocrystal,
+,,10.903,monocrystal,https://doi.org/10.1016/j.actamat.2005.07.039
+Fe23C6,Experiment,10.639,BCC-Fe nanocomposit,https://doi.org/10.1088/0957-4484/14/11/010
+,Calculated,10.16,monocrystal,
+,Calculated,10.467,monocrystal,https://doi.org/10.1016/j.actamat.2015.08.078
+,,,,
+,,,,
+,,,,
+Inconel,,,,
+Alloy 690,Experiment,3.53,Bulk,https://scholar.google.com/scholar_lookup?author=Y.B..%20Lee&author=J.S..%20Jang&author=D.H..%20Lee&author=D.Y..%20Lee&author=I.H..%20Kuk&journal=J.%20Kor.%20Inst.%20Met.%20Mater.&volume=35&pages=935-41&publication_year=1997
+625,Experiment,3.6,Bulk,https://doi.org/10.1016/j.scriptamat.2004.03.017
+718,Experiment,3.62,Bulk,https://doi.org/10.1016/j.matdes.2016.01.041
+600,Experiment,0.355,Bulk,https://doi.org/10.1016/j.jnucmat.2003.10.007
