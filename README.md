@@ -13,7 +13,7 @@ The script include:
 	
 	b) A.Beskrovni, Effect of Cr content on the crystal structure and lattice dynamics of FCC Fe–Cr–Ni–N austenitic alloys
 	
-6.Electronic contrast
+6. Electronic contrast
 7. Precipitate volume fraction
 
 Unfortunately, the results are still...weird. Unless there is an error in my calculations. You can view my code for those. Hope it's clear enough, I'm not a good coder.
