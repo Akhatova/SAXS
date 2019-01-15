@@ -1,5 +1,5 @@
 # SAXS
-Here you can find a python script for data treatment of SAXS integrated intensity across the weld.
+Here you can find a python script for the treatment of a SAXS integrated intensity across the weld.
 Please open "SAXS analysis step by step.ipynb".
 
 The script includes:
