@@ -16,6 +16,7 @@ The script includes:
 6. Electronic contrast
 7. Precipitate volume fraction
 
-Unfortunately, the results are still...weird. Unless there is an error in my calculations. You can view my code for those. Hope it's clear enough, I'm not a good coder.
+Unfortunately, the results are still...weird. Unless there is an error in my calculations. You can view my code for those. Hope it's clear enough, I'm not good coder.
 
-I tried an assumtion that lattice paramater of precipitate is 3 times of matrix lattice parameter throughout all area. In that case, the value of volume fraction of precipitates look more reasonable (3% after PWHT and 5% after 450°C aging), but I don't see the reason to trust them. Firstly, because the assumtion is just a fantasy, and secondly, because the peak has shifted from 20 to 10 micrones, which does not correspond to the carbon profile.
+I tried an assumtion that the lattice paramater of precipitate is 3 times of the matrix lattice parameter throughout ALL area. In that case, values of the volume fraction of precipitates look more reasonable (3% after PWHT and 5% after 450°C aging), but the peak has shifted from 20 to 10 micrones, which does not correspond to the carbon profile.
+
