@@ -1,5 +1,5 @@
 # SAXS
-Here you can find a python script for the treatment of a Small Angle X-Ray diffraction integrated intensity across the weld.
+Here you can find a python script for the treatment of integrated intensities across the weld obtained by Small Angle X-Ray scattering.
 Please open "SAXS analysis step by step.ipynb".
 
 The script includes:
