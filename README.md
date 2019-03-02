@@ -1,5 +1,5 @@
 # SAXS
-Here you can find a python script for the treatment of a SAXS integrated intensity across the weld.
+Here you can find a python script for the treatment of a Small Angle X-Ray diffraction integrated intensity across the weld.
 Please open "SAXS analysis step by step.ipynb".
 
 The script includes:
@@ -16,7 +16,4 @@ The script includes:
 6. Electronic contrast
 7. Precipitate volume fraction
 
-Unfortunately, the results are still...weird. Unless there is an error in my calculations. You can view my code for those. Hope it's clear enough, I'm not good coder.
-
-I tried an assumtion that the lattice paramater of precipitate is 3 times of the matrix lattice parameter throughout ALL area. In that case, values of the volume fraction of precipitates look more reasonable (3% after PWHT and 5% after 450°C aging), but the peak has shifted from 20 to 10 micrones, which does not correspond to the carbon profile.
 
